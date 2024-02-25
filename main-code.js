@@ -1,6 +1,6 @@
 
-function GOT() {
-console.log("Winter is Coming");
+function GOTSeason8() {
+console.log("Winter is HERE!!!!!");
 }
 
-GOT();
+GOTSeason8();
