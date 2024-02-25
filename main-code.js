@@ -1,6 +1,6 @@
 
 function GOT() {
-console.log("Winter is Coming");
+console.log("Winter???");
 }
 
 GOT();
